@@ -1,6 +1,6 @@
-Assessing the drivers of the syphilis epidemic among men-who-have-sex-with-men
+This is a GIT Repository consisting of the mathematical model to reproduce the study 'Assessing the drivers of the syphilis epidemic among men-who-have-sex-with-men'
 
-Suraj Balakrishna et al.
+Author: Suraj Balakrishna et al.
 
 Programs
 
